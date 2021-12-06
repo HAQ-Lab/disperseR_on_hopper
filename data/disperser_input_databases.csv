@@ -1,0 +1,3 @@
+﻿Source_type,fuel_type,year_start,year_end,temporal_resolution,spatial_resolution,owner,code_to_produce_location,github_repo,file_location
+power plants,coal,1997,2021,annual,national US,mrasel,,,/projects/HAQ_LAB/mrasel/R/ampd-raw-data-processing/data/units_coal_1997_2021.rda
+industrial facilities,"coal, oil",2001,2015,monthly,California,,/home/lhennem/runscripts/rundisperseR/CA_files/00data_process_CA.R,,/projects/HAQ_LAB/lhennem/data/disperseR/coal_oil_ca/epa_eia_emission_closed_facility.csv

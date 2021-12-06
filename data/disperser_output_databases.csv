@@ -1,0 +1,3 @@
+﻿Name,Spatial_scope,Time resolution,Spatial domain,Unit,Spatial resolution,start year,end year,Owner,Location,Github_repo,Online location
+longterm_coal,US national,"annual, monthly",grid,pm25,36km,1999,2020,lhennem,/projects/HAQ_LAB/lhennem/disperseR/main/output/exp25/grids20210715,,https://osf.io/8gdau/
+California_coal_oil,US national,monthly,ZIP,raw_hyads,ZIP,2001,2015,lhennem,/projects/HAQ_LAB/lhennem/disperseR/main/output/exp/CA_zips,,
